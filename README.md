@@ -1,3 +1,4 @@
+
 # 🌦️WeatherApp.React
 
 Welcome to WeatherApp.React! This project is a simple and intuitive React-based weather forecast application designed for users in the United States. Whether you're planning your week or just curious about the weather in multiple locations, this app makes it easy and fun to stay informed.
@@ -25,42 +26,43 @@ Run the following command to install all required dependencies:
 npm install
 ```
 
-###Run the App
+### Run the app
 Launch the development server with:
-
 ```bash
 npm start
+```
 The app will be available at http://localhost:3000.
 
-🧰 ##How to Use
-Enter a valid U.S. ZIP code in the search bar.
-Click "Add" to generate the 5-day forecast for that location.
-Add up to 3 ZIP codes, each displayed in a separate tab.
-Switch between tabs to view forecasts for different locations.
-🖼️ Screenshots
-🌤️ Sunny Day Forecast	🌧️ Rainy Day Forecast
-🌍 Why Open Source?
+## 🧰 How to Use
+1. Enter a valid U.S. ZIP code in the search bar.
+2. Click "Add" to generate the 5-day forecast for that location.
+3. Add up to 3 ZIP codes, each displayed in a separate tab.
+4. Switch between tabs to view forecasts for different locations.
+
+## 🖼️ Screenshots
+
+| 🌤️ Sunny Day Forecast | 🌧️ Rainy Day Forecast |
+| --- | --- |
+| Coming Soon | Coming Soon |
+
+## 🌍 Why Open Source?
 This project is open-source and available for free to anyone who wants to:
 
-Learn React best practices.
-Understand how to consume APIs in a React app.
-Build responsive and user-friendly UIs.
-Reuse or enhance the code for their own projects.
-Feel free to fork, modify, and contribute! 🎉
+- Learn React best practices.
+- Understand how to consume APIs in a React app.
+- Build responsive and user-friendly UIs.
+- Reuse or enhance the code for their own projects.
+- Feel free to fork, modify, and contribute! 🎉
 
-🔮 Future Improvements
-Adding hourly forecast details.
-Enhanced theming options (light/dark mode).
-International support.
-🤝 Contributing
-Fork the repository.
-Create a new branch (feature/new-feature).
-Commit your changes.
-Open a pull request.
-📜 License
+## 🔮 Future Improvements
+- Adding hourly forecast details.
+- Enhanced theming options (light/dark mode).
+- International support.
+
+## 📜 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code.
 
-💬 Contact
+## 💬 Contact
 Have questions or suggestions? Feel free to reach out via the Issues page.
 
-🌟 Give this repo a star if you find it helpful! 🌟
+## 🌟 Give this repo a star if you find it helpful! 🌟
